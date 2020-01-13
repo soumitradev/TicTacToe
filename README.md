@@ -440,3 +440,6 @@ exit
 
 C:\**************\GCI\TicTacToe>
 ```
+
+## References
+Understanding of Minimax thanks to: https://www.youtube.com/watch?v=l-hh51ncgDI
